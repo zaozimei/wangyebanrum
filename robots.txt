@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaozimei.github.io/wangyebanrum/sitemap.xml
